@@ -1,7 +1,15 @@
 # 👋 Olá! Eu sou o Antonio Filho
 
-**Desenvolvedor Full Stack | Analista de Sistemas | Web Design & UI/UX | Criador de Conteúdo Tech**
+**Desenvolvedor Full Stack | Analista de Sistemas | Web Design & UI/UX | Criador de Conteúdo Tech** <br/>
 📍 Guarulhos, São Paulo, Brasil  
+
+<div> 
+  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/@johnodev7672)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/john_o_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <a href="https://instagram.com/john_o_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
 
 Sou apaixonado por tecnologia, desenvolvimento web e criação de interfaces modernas.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, enquanto me aprofundo em **Web Development**, **UI/UX**, **JavaScript/TypeScript**, **Angular**, **React** e técnicas de **SEO** para alta performance no Google.
